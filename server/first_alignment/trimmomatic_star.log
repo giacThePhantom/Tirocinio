@@ -1,0 +1,720 @@
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/DMSO/POL/rep4.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/scr_DMSO_POL_rep4.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/DMSO/POL/rep4.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 30390791 Surviving: 30045473 (98.86%) Dropped: 345318 (1.14%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/DMSO/POL/rep3.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/scr_DMSO_POL_rep3.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/DMSO/POL/rep3.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 31459934 Surviving: 31219370 (99.24%) Dropped: 240564 (0.76%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/DMSO/POL/rep2.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/scr_DMSO_POL_rep2.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/DMSO/POL/rep2.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 33673120 Surviving: 33401591 (99.19%) Dropped: 271529 (0.81%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/DMSO/POL/rep1.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/scr_DMSO_POL_rep1.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/DMSO/POL/rep1.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 33696099 Surviving: 33410816 (99.15%) Dropped: 285283 (0.85%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/DMSO/TOT/rep1.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/scr_DMSO_TOT_rep1.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/DMSO/TOT/rep1.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 26085064 Surviving: 25642498 (98.30%) Dropped: 442566 (1.70%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/DMSO/TOT/rep3.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/scr_DMSO_TOT_rep3.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/DMSO/TOT/rep3.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 29658349 Surviving: 29415370 (99.18%) Dropped: 242979 (0.82%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/DMSO/TOT/rep2.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/scr_DMSO_TOT_rep2.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/DMSO/TOT/rep2.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 29815383 Surviving: 29561147 (99.15%) Dropped: 254236 (0.85%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/DMSO/TOT/rep4.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/scr_DMSO_TOT_rep4.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/DMSO/TOT/rep4.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 31112749 Surviving: 30777813 (98.92%) Dropped: 334936 (1.08%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/NUTLIN/POL/rep2.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/scr_NUTLIN_POL_rep2.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/NUTLIN/POL/rep2.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 33784038 Surviving: 33493950 (99.14%) Dropped: 290088 (0.86%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/NUTLIN/POL/rep4.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/scr_NUTLIN_POL_rep4.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/NUTLIN/POL/rep4.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 31657344 Surviving: 31415725 (99.24%) Dropped: 241619 (0.76%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/NUTLIN/POL/rep3.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/scr_NUTLIN_POL_rep3.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/NUTLIN/POL/rep3.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 35726737 Surviving: 35464245 (99.27%) Dropped: 262492 (0.73%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/NUTLIN/POL/rep1.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/scr_NUTLIN_POL_rep1.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/NUTLIN/POL/rep1.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 39398409 Surviving: 39068462 (99.16%) Dropped: 329947 (0.84%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/NUTLIN/TOT/rep1.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/scr_NUTLIN_TOT_rep1.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/NUTLIN/TOT/rep1.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 29884788 Surviving: 29513316 (98.76%) Dropped: 371472 (1.24%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/NUTLIN/TOT/rep2.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/scr_NUTLIN_TOT_rep2.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/NUTLIN/TOT/rep2.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 27203500 Surviving: 26964312 (99.12%) Dropped: 239188 (0.88%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/NUTLIN/TOT/rep3.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/scr_NUTLIN_TOT_rep3.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/NUTLIN/TOT/rep3.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 29421107 Surviving: 29170320 (99.15%) Dropped: 250787 (0.85%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/NUTLIN/TOT/rep4.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/scr_NUTLIN_TOT_rep4.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/NUTLIN/TOT/rep4.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 29926523 Surviving: 29629310 (99.01%) Dropped: 297213 (0.99%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/DMSO/POL/rep3.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/shDHX30_DMSO_POL_rep3.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/DMSO/POL/rep3.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 24566857 Surviving: 24386649 (99.27%) Dropped: 180208 (0.73%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/DMSO/POL/rep1.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/shDHX30_DMSO_POL_rep1.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/DMSO/POL/rep1.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 32743487 Surviving: 32468668 (99.16%) Dropped: 274819 (0.84%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/DMSO/POL/rep2.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/shDHX30_DMSO_POL_rep2.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/DMSO/POL/rep2.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 34212636 Surviving: 33918451 (99.14%) Dropped: 294185 (0.86%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/DMSO/POL/rep4.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/shDHX30_DMSO_POL_rep4.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/DMSO/POL/rep4.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 35039783 Surviving: 34753899 (99.18%) Dropped: 285884 (0.82%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/DMSO/TOT/rep2.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/shDHX30_DMSO_TOT_rep2.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/DMSO/TOT/rep2.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 27260620 Surviving: 27009841 (99.08%) Dropped: 250779 (0.92%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/DMSO/TOT/rep1.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/shDHX30_DMSO_TOT_rep1.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/DMSO/TOT/rep1.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 35528137 Surviving: 35197735 (99.07%) Dropped: 330402 (0.93%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/DMSO/TOT/rep3.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/shDHX30_DMSO_TOT_rep3.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/DMSO/TOT/rep3.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 32958201 Surviving: 32693684 (99.20%) Dropped: 264517 (0.80%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/DMSO/TOT/rep4.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/shDHX30_DMSO_TOT_rep4.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/DMSO/TOT/rep4.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 32560384 Surviving: 32269667 (99.11%) Dropped: 290717 (0.89%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/NUTLIN/POL/rep3.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/shDHX30_NUTLIN_POL_rep3.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/NUTLIN/POL/rep3.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 28892707 Surviving: 28670766 (99.23%) Dropped: 221941 (0.77%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/NUTLIN/POL/rep1.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/shDHX30_NUTLIN_POL_rep1.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/NUTLIN/POL/rep1.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 35124092 Surviving: 34820898 (99.14%) Dropped: 303194 (0.86%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/NUTLIN/POL/rep2.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/shDHX30_NUTLIN_POL_rep2.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/NUTLIN/POL/rep2.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 34300225 Surviving: 34009976 (99.15%) Dropped: 290249 (0.85%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/NUTLIN/POL/rep4.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/shDHX30_NUTLIN_POL_rep4.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/NUTLIN/POL/rep4.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 36868317 Surviving: 36578147 (99.21%) Dropped: 290170 (0.79%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/NUTLIN/TOT/rep3.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/shDHX30_NUTLIN_TOT_rep3.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/NUTLIN/TOT/rep3.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 24884375 Surviving: 24663779 (99.11%) Dropped: 220596 (0.89%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/NUTLIN/TOT/rep1.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/shDHX30_NUTLIN_TOT_rep1.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/NUTLIN/TOT/rep1.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 31404354 Surviving: 31112473 (99.07%) Dropped: 291881 (0.93%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/NUTLIN/TOT/rep2.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/shDHX30_NUTLIN_TOT_rep2.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/NUTLIN/TOT/rep2.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 33505962 Surviving: 33169533 (99.00%) Dropped: 336429 (1.00%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/NUTLIN/TOT/rep4.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/shDHX30_NUTLIN_TOT_rep4.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/NUTLIN/TOT/rep4.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 30550927 Surviving: 30296328 (99.17%) Dropped: 254599 (0.83%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/DMSO/POL/rep1.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/shPCBP2_DMSO_POL_rep1.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/DMSO/POL/rep1.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 31449613 Surviving: 31179592 (99.14%) Dropped: 270021 (0.86%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/DMSO/POL/rep2.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/shPCBP2_DMSO_POL_rep2.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/DMSO/POL/rep2.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 32750457 Surviving: 32477229 (99.17%) Dropped: 273228 (0.83%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/DMSO/POL/rep3.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/shPCBP2_DMSO_POL_rep3.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/DMSO/POL/rep3.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 32868593 Surviving: 32632733 (99.28%) Dropped: 235860 (0.72%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/DMSO/POL/rep4.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/shPCBP2_DMSO_POL_rep4.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/DMSO/POL/rep4.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 38647267 Surviving: 38346802 (99.22%) Dropped: 300465 (0.78%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/DMSO/TOT/rep1.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/shPCBP2_DMSO_TOT_rep1.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/DMSO/TOT/rep1.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 28395004 Surviving: 28130734 (99.07%) Dropped: 264270 (0.93%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/DMSO/TOT/rep2.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/shPCBP2_DMSO_TOT_rep2.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/DMSO/TOT/rep2.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 28560637 Surviving: 28276384 (99.00%) Dropped: 284253 (1.00%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/DMSO/TOT/rep3.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/shPCBP2_DMSO_TOT_rep3.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/DMSO/TOT/rep3.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 28073152 Surviving: 27862587 (99.25%) Dropped: 210565 (0.75%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/DMSO/TOT/rep4.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/shPCBP2_DMSO_TOT_rep4.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/DMSO/TOT/rep4.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 29838317 Surviving: 29574298 (99.12%) Dropped: 264019 (0.88%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/NUTLIN/POL/rep3.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/shPCBP2_NUTLIN_POL_rep3.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/NUTLIN/POL/rep3.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 29575775 Surviving: 29342402 (99.21%) Dropped: 233373 (0.79%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/NUTLIN/POL/rep2.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/shPCBP2_NUTLIN_POL_rep2.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/NUTLIN/POL/rep2.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 35500429 Surviving: 35211798 (99.19%) Dropped: 288631 (0.81%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/NUTLIN/POL/rep1.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/shPCBP2_NUTLIN_POL_rep1.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/NUTLIN/POL/rep1.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 44427397 Surviving: 44035644 (99.12%) Dropped: 391753 (0.88%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/NUTLIN/POL/rep4.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/shPCBP2_NUTLIN_POL_rep4.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/NUTLIN/POL/rep4.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 37974560 Surviving: 37624517 (99.08%) Dropped: 350043 (0.92%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/NUTLIN/TOT/rep1.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/shPCBP2_NUTLIN_TOT_rep1.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/NUTLIN/TOT/rep1.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 26231713 Surviving: 25872730 (98.63%) Dropped: 358983 (1.37%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/NUTLIN/TOT/rep2.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/shPCBP2_NUTLIN_TOT_rep2.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/NUTLIN/TOT/rep2.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 27865698 Surviving: 27606549 (99.07%) Dropped: 259149 (0.93%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/NUTLIN/TOT/rep3.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/shPCBP2_NUTLIN_TOT_rep3.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/NUTLIN/TOT/rep3.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 31017946 Surviving: 30780809 (99.24%) Dropped: 237137 (0.76%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 5 -phred33 -trimlog /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/NUTLIN/TOT/rep4.trimmomatic.log /GROUPS/sharedRL/tirocinanti/giacomo/fastq/shPCBP2_NUTLIN_TOT_rep4.fastq.gz /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/NUTLIN/TOT/rep4.trimmed.fastq.gz ILLUMINACLIP:/GROUPS/sharedRL/tirocinanti/tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Reads: 33574322 Surviving: 33259380 (99.06%) Dropped: 314942 (0.94%)
+TrimmomaticSE: Completed successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/DMSO/TOT/rep1.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/DMSO/TOT/rep1 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 21 23:17:52 ..... started STAR run
+Mar 21 23:17:52 ..... loading genome
+Mar 21 23:18:20 ..... started mapping
+Mar 21 23:23:09 ..... finished mapping
+Mar 21 23:23:14 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/DMSO/POL/rep4.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/DMSO/POL/rep4 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 21 23:17:52 ..... started STAR run
+Mar 21 23:17:52 ..... loading genome
+Mar 21 23:18:19 ..... started mapping
+Mar 21 23:23:37 ..... finished mapping
+Mar 21 23:23:40 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/DMSO/POL/rep2.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/DMSO/POL/rep2 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 21 23:17:52 ..... started STAR run
+Mar 21 23:17:52 ..... loading genome
+Mar 21 23:18:19 ..... started mapping
+Mar 21 23:24:12 ..... finished mapping
+Mar 21 23:24:15 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/DMSO/POL/rep1.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/DMSO/POL/rep1 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 21 23:17:52 ..... started STAR run
+Mar 21 23:17:52 ..... loading genome
+Mar 21 23:18:19 ..... started mapping
+Mar 21 23:24:18 ..... finished mapping
+Mar 21 23:24:21 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/DMSO/TOT/rep2.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/DMSO/TOT/rep2 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 21 23:23:34 ..... started STAR run
+Mar 21 23:23:37 ..... loading genome
+Mar 21 23:24:06 ..... started mapping
+Mar 21 23:29:46 ..... finished mapping
+Mar 21 23:29:51 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/DMSO/TOT/rep3.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/DMSO/TOT/rep3 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 21 23:24:17 ..... started STAR run
+Mar 21 23:24:18 ..... loading genome
+Mar 21 23:24:45 ..... started mapping
+Mar 21 23:29:53 ..... finished mapping
+Mar 21 23:29:57 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/DMSO/POL/rep3.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/DMSO/POL/rep3 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 21 23:23:43 ..... started STAR run
+Mar 21 23:23:43 ..... loading genome
+Mar 21 23:24:13 ..... started mapping
+Mar 21 23:30:19 ..... finished mapping
+Mar 21 23:30:22 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/DMSO/TOT/rep4.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/DMSO/TOT/rep4 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 21 23:24:22 ..... started STAR run
+Mar 21 23:24:22 ..... loading genome
+Mar 21 23:24:51 ..... started mapping
+Mar 21 23:31:57 ..... finished mapping
+Mar 21 23:32:00 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/NUTLIN/POL/rep2.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/NUTLIN/POL/rep2 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 21 23:30:07 ..... started STAR run
+Mar 21 23:30:09 ..... loading genome
+Mar 21 23:30:39 ..... started mapping
+Mar 21 23:36:12 ..... finished mapping
+Mar 21 23:36:18 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/NUTLIN/POL/rep4.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/NUTLIN/POL/rep4 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 21 23:30:24 ..... started STAR run
+Mar 21 23:30:25 ..... loading genome
+Mar 21 23:30:55 ..... started mapping
+Mar 21 23:36:41 ..... finished mapping
+Mar 21 23:36:44 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/NUTLIN/POL/rep1.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/NUTLIN/POL/rep1 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 21 23:30:01 ..... started STAR run
+Mar 21 23:30:04 ..... loading genome
+Mar 21 23:30:33 ..... started mapping
+Mar 21 23:37:09 ..... finished mapping
+Mar 21 23:37:12 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/NUTLIN/POL/rep3.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/NUTLIN/POL/rep3 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 21 23:32:02 ..... started STAR run
+Mar 21 23:32:02 ..... loading genome
+Mar 21 23:32:30 ..... started mapping
+Mar 21 23:37:59 ..... finished mapping
+Mar 21 23:38:03 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/NUTLIN/TOT/rep3.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/NUTLIN/TOT/rep3 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 21 23:36:51 ..... started STAR run
+Mar 21 23:36:55 ..... loading genome
+Mar 21 23:37:22 ..... started mapping
+Mar 21 23:42:40 ..... finished mapping
+Mar 21 23:42:45 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/NUTLIN/TOT/rep1.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/NUTLIN/TOT/rep1 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 21 23:36:29 ..... started STAR run
+Mar 21 23:36:34 ..... loading genome
+Mar 21 23:37:03 ..... started mapping
+Mar 21 23:43:09 ..... finished mapping
+Mar 21 23:43:14 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/DMSO/POL/rep1.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/DMSO/POL/rep1 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 21 23:37:15 ..... started STAR run
+Mar 21 23:37:15 ..... loading genome
+Mar 21 23:37:44 ..... started mapping
+Mar 21 23:43:29 ..... finished mapping
+Mar 21 23:43:33 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/NUTLIN/TOT/rep2.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/NUTLIN/TOT/rep2 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 21 23:38:10 ..... started STAR run
+Mar 21 23:38:14 ..... loading genome
+Mar 21 23:38:40 ..... started mapping
+Mar 21 23:43:41 ..... finished mapping
+Mar 21 23:43:43 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/DMSO/POL/rep3.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/DMSO/POL/rep3 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 21 23:43:36 ..... started STAR run
+Mar 21 23:43:39 ..... loading genome
+Mar 21 23:44:10 ..... started mapping
+Mar 21 23:48:37 ..... finished mapping
+Mar 21 23:48:46 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/NUTLIN/TOT/rep4.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/scr/NUTLIN/TOT/rep4 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 21 23:43:21 ..... started STAR run
+Mar 21 23:43:25 ..... loading genome
+Mar 21 23:43:50 ..... started mapping
+Mar 21 23:48:58 ..... finished mapping
+Mar 21 23:49:03 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/DMSO/POL/rep2.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/DMSO/POL/rep2 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 21 23:43:08 ..... started STAR run
+Mar 21 23:43:09 ..... loading genome
+Mar 21 23:43:37 ..... started mapping
+Mar 21 23:49:39 ..... finished mapping
+Mar 21 23:49:42 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/DMSO/TOT/rep1.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/DMSO/TOT/rep1 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 21 23:43:46 ..... started STAR run
+Mar 21 23:43:47 ..... loading genome
+Mar 21 23:44:16 ..... started mapping
+Mar 21 23:50:48 ..... finished mapping
+Mar 21 23:50:52 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/DMSO/TOT/rep2.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/DMSO/TOT/rep2 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 21 23:49:45 ..... started STAR run
+Mar 21 23:49:45 ..... loading genome
+Mar 21 23:50:13 ..... started mapping
+Mar 21 23:55:11 ..... finished mapping
+Mar 21 23:55:17 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/DMSO/TOT/rep3.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/DMSO/TOT/rep3 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 21 23:49:11 ..... started STAR run
+Mar 21 23:49:13 ..... loading genome
+Mar 21 23:49:42 ..... started mapping
+Mar 21 23:56:08 ..... finished mapping
+Mar 21 23:56:12 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/DMSO/POL/rep4.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/DMSO/POL/rep4 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 21 23:49:13 ..... started STAR run
+Mar 21 23:49:13 ..... loading genome
+Mar 21 23:49:42 ..... started mapping
+Mar 21 23:57:35 ..... finished mapping
+Mar 21 23:57:39 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/DMSO/TOT/rep4.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/DMSO/TOT/rep4 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 21 23:50:57 ..... started STAR run
+Mar 21 23:51:01 ..... loading genome
+Mar 21 23:51:29 ..... started mapping
+Mar 21 23:58:50 ..... finished mapping
+Mar 21 23:58:54 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/NUTLIN/POL/rep1.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/NUTLIN/POL/rep1 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 21 23:56:13 ..... started STAR run
+Mar 21 23:56:13 ..... loading genome
+Mar 21 23:56:42 ..... started mapping
+Mar 22 00:02:27 ..... finished mapping
+Mar 22 00:02:32 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/NUTLIN/POL/rep2.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/NUTLIN/POL/rep2 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 21 23:55:40 ..... started STAR run
+Mar 21 23:55:44 ..... loading genome
+Mar 21 23:56:12 ..... started mapping
+Mar 22 00:02:32 ..... finished mapping
+Mar 22 00:02:36 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/NUTLIN/POL/rep4.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/NUTLIN/POL/rep4 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 21 23:57:45 ..... started STAR run
+Mar 21 23:57:49 ..... loading genome
+Mar 21 23:58:18 ..... started mapping
+Mar 22 00:04:49 ..... finished mapping
+Mar 22 00:04:53 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/NUTLIN/POL/rep3.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/NUTLIN/POL/rep3 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 21 23:59:03 ..... started STAR run
+Mar 21 23:59:07 ..... loading genome
+Mar 21 23:59:34 ..... started mapping
+Mar 22 00:05:00 ..... finished mapping
+Mar 22 00:05:02 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/NUTLIN/TOT/rep3.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/NUTLIN/TOT/rep3 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 22 00:02:44 ..... started STAR run
+Mar 22 00:02:49 ..... loading genome
+Mar 22 00:03:19 ..... started mapping
+Mar 22 00:08:03 ..... finished mapping
+Mar 22 00:08:08 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/NUTLIN/TOT/rep1.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/NUTLIN/TOT/rep1 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 22 00:02:35 ..... started STAR run
+Mar 22 00:02:36 ..... loading genome
+Mar 22 00:03:03 ..... started mapping
+Mar 22 00:09:00 ..... finished mapping
+Mar 22 00:09:05 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/NUTLIN/TOT/rep4.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/NUTLIN/TOT/rep4 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 22 00:05:03 ..... started STAR run
+Mar 22 00:05:03 ..... loading genome
+Mar 22 00:05:32 ..... started mapping
+Mar 22 00:11:31 ..... finished mapping
+Mar 22 00:11:35 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/NUTLIN/TOT/rep2.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shDHX30/NUTLIN/TOT/rep2 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 22 00:05:00 ..... started STAR run
+Mar 22 00:05:00 ..... loading genome
+Mar 22 00:05:28 ..... started mapping
+Mar 22 00:11:37 ..... finished mapping
+Mar 22 00:11:43 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/DMSO/POL/rep1.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/DMSO/POL/rep1 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 22 00:08:15 ..... started STAR run
+Mar 22 00:08:20 ..... loading genome
+Mar 22 00:08:49 ..... started mapping
+Mar 22 00:13:51 ..... finished mapping
+Mar 22 00:13:55 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/DMSO/POL/rep2.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/DMSO/POL/rep2 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 22 00:09:10 ..... started STAR run
+Mar 22 00:09:14 ..... loading genome
+Mar 22 00:09:40 ..... started mapping
+Mar 22 00:15:30 ..... finished mapping
+Mar 22 00:15:34 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/DMSO/POL/rep3.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/DMSO/POL/rep3 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 22 00:11:48 ..... started STAR run
+Mar 22 00:11:53 ..... loading genome
+Mar 22 00:12:21 ..... started mapping
+Mar 22 00:18:11 ..... finished mapping
+Mar 22 00:18:16 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/DMSO/POL/rep4.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/DMSO/POL/rep4 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 22 00:11:44 ..... started STAR run
+Mar 22 00:11:47 ..... loading genome
+Mar 22 00:12:14 ..... started mapping
+Mar 22 00:19:14 ..... finished mapping
+Mar 22 00:19:18 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/DMSO/TOT/rep1.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/DMSO/TOT/rep1 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 22 00:14:02 ..... started STAR run
+Mar 22 00:14:06 ..... loading genome
+Mar 22 00:14:36 ..... started mapping
+Mar 22 00:19:24 ..... finished mapping
+Mar 22 00:19:28 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/DMSO/TOT/rep3.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/DMSO/TOT/rep3 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 22 00:15:38 ..... started STAR run
+Mar 22 00:15:43 ..... loading genome
+Mar 22 00:16:08 ..... started mapping
+Mar 22 00:21:19 ..... finished mapping
+Mar 22 00:21:21 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/DMSO/TOT/rep4.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/DMSO/TOT/rep4 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 22 00:18:22 ..... started STAR run
+Mar 22 00:18:22 ..... loading genome
+Mar 22 00:18:49 ..... started mapping
+Mar 22 00:24:57 ..... finished mapping
+Mar 22 00:25:01 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/DMSO/TOT/rep2.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/DMSO/TOT/rep2 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 22 00:19:19 ..... started STAR run
+Mar 22 00:19:22 ..... loading genome
+Mar 22 00:19:48 ..... started mapping
+Mar 22 00:26:26 ..... finished mapping
+Mar 22 00:26:31 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/NUTLIN/POL/rep2.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/NUTLIN/POL/rep2 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 22 00:21:24 ..... started STAR run
+Mar 22 00:21:28 ..... loading genome
+Mar 22 00:21:55 ..... started mapping
+Mar 22 00:27:31 ..... finished mapping
+Mar 22 00:27:35 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/NUTLIN/POL/rep1.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/NUTLIN/POL/rep1 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 22 00:19:36 ..... started STAR run
+Mar 22 00:19:37 ..... loading genome
+Mar 22 00:20:07 ..... started mapping
+Mar 22 00:28:21 ..... finished mapping
+Mar 22 00:28:23 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/NUTLIN/POL/rep3.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/NUTLIN/POL/rep3 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 22 00:25:17 ..... started STAR run
+Mar 22 00:25:22 ..... loading genome
+Mar 22 00:25:48 ..... started mapping
+Mar 22 00:30:50 ..... finished mapping
+Mar 22 00:30:54 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/NUTLIN/TOT/rep1.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/NUTLIN/TOT/rep1 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 22 00:27:52 ..... started STAR run
+Mar 22 00:27:57 ..... loading genome
+Mar 22 00:28:24 ..... started mapping
+Mar 22 00:33:48 ..... finished mapping
+Mar 22 00:33:52 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/NUTLIN/POL/rep4.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/NUTLIN/POL/rep4 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 22 00:26:46 ..... started STAR run
+Mar 22 00:26:49 ..... loading genome
+Mar 22 00:27:17 ..... started mapping
+Mar 22 00:34:27 ..... finished mapping
+Mar 22 00:34:31 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/NUTLIN/TOT/rep4.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/NUTLIN/TOT/rep4 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 22 00:28:27 ..... started STAR run
+Mar 22 00:28:30 ..... loading genome
+Mar 22 00:28:58 ..... started mapping
+Mar 22 00:36:07 ..... finished mapping
+Mar 22 00:36:10 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/NUTLIN/TOT/rep2.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/NUTLIN/TOT/rep2 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 22 00:31:00 ..... started STAR run
+Mar 22 00:31:00 ..... loading genome
+Mar 22 00:31:30 ..... started mapping
+Mar 22 00:37:26 ..... finished mapping
+Mar 22 00:37:30 ..... finished successfully
+	/GROUPS/sharedRL/tirocinanti/tools/star/STAR-master/bin/Linux_x86_64_static/STAR --genomeDir /GROUPS/sharedRL/tirocinanti/tools/star/reference_genomes/GRCh38 --genomeLoad NoSharedMemory --runThreadN 5 --readFilesCommand zcat --readFilesIn /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/NUTLIN/TOT/rep3.trimmed.fastq.gz --outFileNamePrefix /GROUPS/sharedRL/tirocinanti/giacomo/output/alignment/shPCBP2/NUTLIN/TOT/rep3 --outSAMstrandField intronMotif --outSAMunmapped None --outReadsUnmapped fastx --outFilterScoreMinOverLread 0.33 --outFilterMatchNminOverLread 0.33
+	STAR version: 2.7.8a_2021-03-08   compiled: 2021-03-08T17:59:29-0500 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+Mar 22 00:33:56 ..... started STAR run
+Mar 22 00:33:58 ..... loading genome
+Mar 22 00:34:25 ..... started mapping
+Mar 22 00:39:06 ..... finished mapping
+Mar 22 00:39:09 ..... finished successfully
+[bam_sort_core] merging from 5 files and 5 in-memory blocks...
+[bam_sort_core] merging from 10 files and 5 in-memory blocks...
+[bam_sort_core] merging from 10 files and 5 in-memory blocks...
+[bam_sort_core] merging from 10 files and 5 in-memory blocks...
+[bam_sort_core] merging from 10 files and 5 in-memory blocks...
+[bam_sort_core] merging from 10 files and 5 in-memory blocks...
+[bam_sort_core] merging from 10 files and 5 in-memory blocks...
+[bam_sort_core] merging from 10 files and 5 in-memory blocks...
+[bam_sort_core] merging from 10 files and 5 in-memory blocks...
+[bam_sort_core] merging from 10 files and 5 in-memory blocks...
+[bam_sort_core] merging from 10 files and 5 in-memory blocks...
+[bam_sort_core] merging from 10 files and 5 in-memory blocks...
+[bam_sort_core] merging from 10 files and 5 in-memory blocks...
+[bam_sort_core] merging from 10 files and 5 in-memory blocks...
+[bam_sort_core] merging from 10 files and 5 in-memory blocks...
+[bam_sort_core] merging from 10 files and 5 in-memory blocks...
+[bam_sort_core] merging from 5 files and 5 in-memory blocks...
+[bam_sort_core] merging from 10 files and 5 in-memory blocks...
+[bam_sort_core] merging from 5 files and 5 in-memory blocks...
+[bam_sort_core] merging from 10 files and 5 in-memory blocks...
+[bam_sort_core] merging from 10 files and 5 in-memory blocks...
+[bam_sort_core] merging from 10 files and 5 in-memory blocks...
+[bam_sort_core] merging from 10 files and 5 in-memory blocks...
+[bam_sort_core] merging from 10 files and 5 in-memory blocks...
+[bam_sort_core] merging from 10 files and 5 in-memory blocks...
+[bam_sort_core] merging from 10 files and 5 in-memory blocks...
+[bam_sort_core] merging from 5 files and 5 in-memory blocks...
+[bam_sort_core] merging from 5 files and 5 in-memory blocks...
+[bam_sort_core] merging from 10 files and 5 in-memory blocks...
+[bam_sort_core] merging from 10 files and 5 in-memory blocks...
+[bam_sort_core] merging from 10 files and 5 in-memory blocks...
+[bam_sort_core] merging from 10 files and 5 in-memory blocks...
+[bam_sort_core] merging from 10 files and 5 in-memory blocks...
+[bam_sort_core] merging from 10 files and 5 in-memory blocks...
+[bam_sort_core] merging from 10 files and 5 in-memory blocks...
+[bam_sort_core] merging from 10 files and 5 in-memory blocks...
+[bam_sort_core] merging from 5 files and 5 in-memory blocks...
+[bam_sort_core] merging from 10 files and 5 in-memory blocks...
+[bam_sort_core] merging from 10 files and 5 in-memory blocks...
+[bam_sort_core] merging from 10 files and 5 in-memory blocks...
+[bam_sort_core] merging from 10 files and 5 in-memory blocks...
+[bam_sort_core] merging from 10 files and 5 in-memory blocks...
+[bam_sort_core] merging from 5 files and 5 in-memory blocks...
+[bam_sort_core] merging from 10 files and 5 in-memory blocks...
+[bam_sort_core] merging from 10 files and 5 in-memory blocks...
+[bam_sort_core] merging from 10 files and 5 in-memory blocks...
+[bam_sort_core] merging from 15 files and 5 in-memory blocks...
+[bam_sort_core] merging from 10 files and 5 in-memory blocks...
